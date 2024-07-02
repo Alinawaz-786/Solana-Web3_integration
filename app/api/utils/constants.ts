@@ -1,4 +1,5 @@
-import idl from "../idl/solana_hello_world.json";
+// import idl from "../idl/solana_hello_world.json";
+import idl from "../../../../../target/idl/calculator.json";
 import { Connection, PublicKey, clusterApiUrl } from "@solana/web3.js";
 
 /* Constants for RPC Connection the Solana Blockchain */
